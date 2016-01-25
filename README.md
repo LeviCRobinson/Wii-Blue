@@ -10,7 +10,9 @@ Pywiiuse:  https://github.com/tswast/pywiiuse
 To run Wii-Blue:
 
 1)  Install wiiuse and pywiiuse, following instructions given in their respective repositories
+
 2)  Enable Bluetooth
+
 3)  Prepare wiimote for use
 
 
